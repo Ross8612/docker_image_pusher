@@ -1,7 +1,6 @@
 ubuntu
 mysql
-ultralytics/yolov5
+ultralytics/yolov5:latest
 ollama/ollama
 ultralytics/ultralytics
 langchain/langchain
-
