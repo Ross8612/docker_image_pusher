@@ -4,3 +4,4 @@ ultralytics/yolov5:latest
 ollama/ollama
 ultralytics/ultralytics
 langchain/langchain
+python:3.11.11-alpine3.21
