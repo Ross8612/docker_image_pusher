@@ -5,3 +5,4 @@ ollama/ollama
 ultralytics/ultralytics
 langchain/langchain
 python:3.11.11-alpine3.21
+langchain/langchain:0.1.0
